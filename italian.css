@@ -1,0 +1,44 @@
+@import	"style.css";
+
+.nok{
+
+	position: absolute;
+	top: 350Px;
+	
+}
+
+.nok1{
+	color: black;
+	font-size: 20px;
+
+	position: absolute;
+	left: 10px;
+}
+
+.tor{
+	position: absolute;
+	top: 350Px;
+	left: 300px;
+
+}
+.tor1{
+	color: black;
+	font-size: 20px;
+	
+	position: absolute;
+	left: 35px;
+}
+
+
+
+.nio{
+	
+	font-size:30px ;
+	color: black;
+	position: absolute;
+	top: 350px;
+	border-radius: 5px;
+	padding: 1rem;
+	background: rgba(255, 255, 255, 0.8);
+
+}

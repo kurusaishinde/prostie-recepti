@@ -1,0 +1,28 @@
+.rm1{
+	 position: absolute ;
+
+    
+    bottom: 30%;
+    
+}
+.rm2{
+	position: relative;
+    left: 5px; 
+    color: black;
+    font-size: 25px
+}
+
+
+
+
+.guak {
+	border-radius: 5px;
+	padding: 1rem;
+	background: rgba(255, 255, 255, 0.8);
+	font-size: 30px;
+	
+	color: black;
+	position: absolute;
+	top: 350px;
+
+}
