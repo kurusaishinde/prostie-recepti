@@ -1,0 +1,64 @@
+@import	"style.css";
+
+.nok{
+
+	position: absolute;
+	top: 350Px;
+	
+}
+
+.nok1{
+	color: black;
+	font-size: 25px;
+
+	position: absolute;
+	
+
+	position: absolute;
+    
+    color: black;
+    
+    text-align: center;
+    border-radius: 20px;
+    padding: -2rem;
+    background: rgba(255, 255, 255, 0.8);
+font-family: monospace;
+
+}
+
+.tor{
+	position: absolute;
+	top: 350Px;
+	left: 300px;
+
+}
+.tor1{
+	color: black;
+	font-size: 25px;
+	
+	position: absolute;
+	left: 15px;
+	
+    
+    color: black;
+   
+    text-align: center;
+    border-radius: 20px;
+    padding: -2rem;
+    background: rgba(255, 255, 255, 0.8);
+font-family: monospace;
+}
+
+
+
+.nio{
+	
+	font-size:30px ;
+	color: black;
+	position: absolute;
+	top: 350px;
+	border-radius: 5px;
+	padding: 1rem;
+	background: rgba(255, 255, 255, 0.8);
+font-family: monospace;
+}

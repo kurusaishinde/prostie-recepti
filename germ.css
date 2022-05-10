@@ -1,0 +1,79 @@
+.glint{
+	 position: absolute ;
+
+    
+    top: 400px;
+    
+}
+.tglint{
+	
+    
+    color: black;
+    font-size: 25px;
+	position: absolute;
+   
+    color: black;
+   
+    text-align: center;
+    border-radius: 20px;
+    padding: -2rem;
+    background: rgba(255, 255, 255, 0.8);
+    font-family: monospace;
+}
+
+
+
+
+
+
+
+
+.hoppel{
+
+	position: absolute;
+
+	top: 0px;
+	left: 300px;
+	
+}
+.thoppel{
+	left: 35px;
+	color: black;
+    font-size: 25px;
+	position: absolute;
+   
+    color: black;
+   
+    text-align: center;
+    border-radius: 20px;
+    padding: -2rem;
+    background: rgba(255, 255, 255, 0.8);
+
+    font-family: monospace;
+}
+
+
+
+
+
+.napitok{
+	font-size:30px ;
+	color: black;
+	position: absolute;
+	top: 350px;
+	border-radius: 5px;
+	padding: 1rem;
+	background: rgba(255, 255, 255, 0.8);
+	font-family: monospace;
+}
+
+.hopp{
+	font-size:30px ;
+	color: black;
+	position: absolute;
+	top: 350px;
+	border-radius: 5px;
+	padding: 1rem;
+	background: rgba(255, 255, 255, 0.8);
+	font-family: monospace;
+}
