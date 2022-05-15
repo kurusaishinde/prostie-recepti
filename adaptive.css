@@ -1,0 +1,30 @@
+@media only screen and (min-width: 1920px){
+ .rep>.xme{
+
+ 	right: 2000px;
+ }
+}
+
+@media only screen and (min-width: 1200px){
+	.rep>.xme{
+
+ 	right: 60%;
+ }
+}
+
+
+@media only screen and (min-width: 992px){
+	
+}
+
+@media only screen and (min-width: 768px){
+	
+}
+
+@media only screen and (min-width: 40px){
+	
+}
+
+@media only	screen and (min-width: 320px){
+	
+}
